@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Afacad Flux', sans-serif;
+}
+
+:root {
+    --color1: #BEE9E8;
+    --color2: #62B6CB;
+    --color3: #1B4965;
+    --color4: #CAE9FF;
+    --color5: #5FA8D3;
+}
+
+header{
+    background-color: var(--color4);
+}
