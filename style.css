@@ -14,5 +14,30 @@
 }
 
 header{
-    background-color: var(--color4);
+    display: flex;
+    background-color: var(--color1);
+    height: 4rem;
+    justify-content: center;
+    align-items: center;
+
+    margin-bottom: 4rem;
+}
+
+main{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.primeira {
+    text-align: justify;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 65rem;
+}
+
+.primeira img{
+
+    height: 25rem ;
 }
